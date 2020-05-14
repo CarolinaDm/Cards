@@ -1,0 +1,4 @@
+# all idden files and folders
+.*
+# except .gitignore
+!.gitignore
